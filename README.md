@@ -37,7 +37,7 @@ MSc dissertation, joint project. Four LLM pipelines, seven configurations, 7,340
 
 `Python` `MuRIL` `LLMs` `Evaluation`
 
-[View the repo](https://github.com/Dakshu13/REPO)
+[View the repo](https://github.com/Dakshu13/Feature-Specific-Review-Summarisation-and-Multilingual-Translation-for-E-Commerce-Amazon-Product-Rev)
 
 </td>
 <td width="50%" valign="top">
@@ -59,7 +59,7 @@ Two Llama models answer from the same live web results and a third model judges 
 
 `Python` `XGBoost` `SMOTE` `Scikit learn`
 
-[View the repo](https://github.com/Dakshu13/REPO)
+[View the repo](https://github.com/Dakshu13/Delay-Flight-Prediction-using-SMOTE)
 
 </td>
 <td width="50%" valign="top">
@@ -69,7 +69,7 @@ Multi page Power BI dashboard on AI adoption, ROI, investment trends and job imp
 
 `Power BI` `DAX` `Dashboard design`
 
-[View the repo](https://github.com/Dakshu13/REPO)
+[View the repo](https://github.com/Dakshu13/PowerBI-AI-Dashboard)
 
 </td>
 </tr>
